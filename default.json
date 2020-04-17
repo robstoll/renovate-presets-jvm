@@ -1,0 +1,16 @@
+{
+  "packageRules": [
+    {
+      "groupName": "Atrium",
+      "packagePatterns": ["^ch.tutteli.atrium:"]
+    },
+    {
+      "groupName": "JUnit Jupiter",
+      "packagePatterns": ["^org.junit.jupiter:"]
+    },    
+    {
+      "groupName": "tutteli gradle plugins",
+      "packagePatterns": ["^ch.tutteli:tutteli-gradle"]
+    }
+  ]
+}
