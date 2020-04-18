@@ -9,6 +9,14 @@
       "packagePatterns": ["^org.junit.jupiter:"]
     },    
     {
+      "groupName": "KBox",
+      "packagePatterns": ["^ch.tutteli.kbox:"]
+    },
+    {
+      "groupName": "Niok",
+      "packagePatterns": ["^ch.tutteli.niok:"]
+    },
+    {
       "groupName": "tutteli gradle plugins",
       "packagePatterns": ["^ch.tutteli:tutteli-gradle"]
     }
