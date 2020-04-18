@@ -13,6 +13,10 @@
       "packagePatterns": ["^ch.tutteli.kbox:"]
     },
     {
+      "groupName": "Ktor",
+      "packagePatterns": ["^io.ktor:"] 
+    }
+    {
       "groupName": "Niok",
       "packagePatterns": ["^ch.tutteli.niok:"]
     },
