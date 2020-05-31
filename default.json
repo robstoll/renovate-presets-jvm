@@ -23,6 +23,10 @@
     {
       "groupName": "tutteli gradle plugins",
       "packagePatterns": ["^ch.tutteli:tutteli-gradle"]
+    },
+    {
+      "groupName": "Spek",
+      "packagePatterns": ["^org.spekframework:"]
     }
   ]
 }
