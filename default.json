@@ -13,6 +13,10 @@
       "packagePatterns": ["^ch.tutteli.kbox:"]
     },
     {
+      "groupName": "Kotlin",
+      "packagePatterns": ["^org.jetbrains.kotlin:"]
+    },
+    {
       "groupName": "Ktor",
       "packagePatterns": ["^io.ktor:"] 
     },
