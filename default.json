@@ -26,7 +26,7 @@
     },
     {
       "groupName": "tutteli gradle plugins",
-      "packagePatterns": ["^ch.tutteli:tutteli-gradle"]
+      "packagePatterns": ["^ch.tutteli:tutteli-gradle", "^ch.tutteli.gradle"]
     },
     {
       "groupName": "Spek 2",
